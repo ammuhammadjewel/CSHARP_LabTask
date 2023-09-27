@@ -1,0 +1,15 @@
+H:\All\C#\LabTask\LabTask\bin\Debug\net6.0\LabTask.exe
+H:\All\C#\LabTask\LabTask\bin\Debug\net6.0\LabTask.deps.json
+H:\All\C#\LabTask\LabTask\bin\Debug\net6.0\LabTask.runtimeconfig.json
+H:\All\C#\LabTask\LabTask\bin\Debug\net6.0\LabTask.dll
+H:\All\C#\LabTask\LabTask\bin\Debug\net6.0\LabTask.pdb
+H:\All\C#\LabTask\LabTask\obj\Debug\net6.0\LabTask.csproj.AssemblyReference.cache
+H:\All\C#\LabTask\LabTask\obj\Debug\net6.0\LabTask.GeneratedMSBuildEditorConfig.editorconfig
+H:\All\C#\LabTask\LabTask\obj\Debug\net6.0\LabTask.AssemblyInfoInputs.cache
+H:\All\C#\LabTask\LabTask\obj\Debug\net6.0\LabTask.AssemblyInfo.cs
+H:\All\C#\LabTask\LabTask\obj\Debug\net6.0\LabTask.csproj.CoreCompileInputs.cache
+H:\All\C#\LabTask\LabTask\obj\Debug\net6.0\LabTask.dll
+H:\All\C#\LabTask\LabTask\obj\Debug\net6.0\refint\LabTask.dll
+H:\All\C#\LabTask\LabTask\obj\Debug\net6.0\LabTask.pdb
+H:\All\C#\LabTask\LabTask\obj\Debug\net6.0\LabTask.genruntimeconfig.cache
+H:\All\C#\LabTask\LabTask\obj\Debug\net6.0\ref\LabTask.dll

@@ -1,0 +1,15 @@
+H:\All\C#\Final_LabTask_1\Final_LabTask_1\bin\Debug\net6.0\Final_LabTask_1.exe
+H:\All\C#\Final_LabTask_1\Final_LabTask_1\bin\Debug\net6.0\Final_LabTask_1.deps.json
+H:\All\C#\Final_LabTask_1\Final_LabTask_1\bin\Debug\net6.0\Final_LabTask_1.runtimeconfig.json
+H:\All\C#\Final_LabTask_1\Final_LabTask_1\bin\Debug\net6.0\Final_LabTask_1.dll
+H:\All\C#\Final_LabTask_1\Final_LabTask_1\bin\Debug\net6.0\Final_LabTask_1.pdb
+H:\All\C#\Final_LabTask_1\Final_LabTask_1\obj\Debug\net6.0\Final_LabTask_1.csproj.AssemblyReference.cache
+H:\All\C#\Final_LabTask_1\Final_LabTask_1\obj\Debug\net6.0\Final_LabTask_1.GeneratedMSBuildEditorConfig.editorconfig
+H:\All\C#\Final_LabTask_1\Final_LabTask_1\obj\Debug\net6.0\Final_LabTask_1.AssemblyInfoInputs.cache
+H:\All\C#\Final_LabTask_1\Final_LabTask_1\obj\Debug\net6.0\Final_LabTask_1.AssemblyInfo.cs
+H:\All\C#\Final_LabTask_1\Final_LabTask_1\obj\Debug\net6.0\Final_LabTask_1.csproj.CoreCompileInputs.cache
+H:\All\C#\Final_LabTask_1\Final_LabTask_1\obj\Debug\net6.0\Final_LabTask_1.dll
+H:\All\C#\Final_LabTask_1\Final_LabTask_1\obj\Debug\net6.0\refint\Final_LabTask_1.dll
+H:\All\C#\Final_LabTask_1\Final_LabTask_1\obj\Debug\net6.0\Final_LabTask_1.pdb
+H:\All\C#\Final_LabTask_1\Final_LabTask_1\obj\Debug\net6.0\Final_LabTask_1.genruntimeconfig.cache
+H:\All\C#\Final_LabTask_1\Final_LabTask_1\obj\Debug\net6.0\ref\Final_LabTask_1.dll

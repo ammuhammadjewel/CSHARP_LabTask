@@ -1,0 +1,12 @@
+H:\All\C#\Login and Registration\Login and Registration\bin\Debug\Login and Registration.exe.config
+H:\All\C#\Login and Registration\Login and Registration\bin\Debug\Login and Registration.exe
+H:\All\C#\Login and Registration\Login and Registration\bin\Debug\Login and Registration.pdb
+H:\All\C#\Login and Registration\Login and Registration\obj\Debug\Login and Registration.csproj.AssemblyReference.cache
+H:\All\C#\Login and Registration\Login and Registration\obj\Debug\Login and Registration.csproj.SuggestedBindingRedirects.cache
+H:\All\C#\Login and Registration\Login and Registration\obj\Debug\Login_and_Registration.Properties.Resources.resources
+H:\All\C#\Login and Registration\Login and Registration\obj\Debug\Login_and_Registration.Registration.resources
+H:\All\C#\Login and Registration\Login and Registration\obj\Debug\Login and Registration.csproj.GenerateResource.cache
+H:\All\C#\Login and Registration\Login and Registration\obj\Debug\Login and Registration.csproj.CoreCompileInputs.cache
+H:\All\C#\Login and Registration\Login and Registration\obj\Debug\Login and Registration.exe
+H:\All\C#\Login and Registration\Login and Registration\obj\Debug\Login and Registration.pdb
+H:\All\C#\Login and Registration\Login and Registration\obj\Debug\Login_and_Registration.Form.resources

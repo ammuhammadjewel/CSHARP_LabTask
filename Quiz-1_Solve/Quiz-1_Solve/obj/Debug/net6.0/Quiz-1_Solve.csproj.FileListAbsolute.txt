@@ -1,0 +1,15 @@
+H:\All\C#\Quiz-1_Solve\Quiz-1_Solve\obj\Debug\net6.0\Quiz-1_Solve.csproj.AssemblyReference.cache
+H:\All\C#\Quiz-1_Solve\Quiz-1_Solve\obj\Debug\net6.0\Quiz-1_Solve.GeneratedMSBuildEditorConfig.editorconfig
+H:\All\C#\Quiz-1_Solve\Quiz-1_Solve\obj\Debug\net6.0\Quiz-1_Solve.AssemblyInfoInputs.cache
+H:\All\C#\Quiz-1_Solve\Quiz-1_Solve\obj\Debug\net6.0\Quiz-1_Solve.AssemblyInfo.cs
+H:\All\C#\Quiz-1_Solve\Quiz-1_Solve\obj\Debug\net6.0\Quiz-1_Solve.csproj.CoreCompileInputs.cache
+H:\All\C#\Quiz-1_Solve\Quiz-1_Solve\bin\Debug\net6.0\Quiz-1_Solve.exe
+H:\All\C#\Quiz-1_Solve\Quiz-1_Solve\bin\Debug\net6.0\Quiz-1_Solve.deps.json
+H:\All\C#\Quiz-1_Solve\Quiz-1_Solve\bin\Debug\net6.0\Quiz-1_Solve.runtimeconfig.json
+H:\All\C#\Quiz-1_Solve\Quiz-1_Solve\bin\Debug\net6.0\Quiz-1_Solve.dll
+H:\All\C#\Quiz-1_Solve\Quiz-1_Solve\bin\Debug\net6.0\Quiz-1_Solve.pdb
+H:\All\C#\Quiz-1_Solve\Quiz-1_Solve\obj\Debug\net6.0\Quiz-1_Solve.dll
+H:\All\C#\Quiz-1_Solve\Quiz-1_Solve\obj\Debug\net6.0\refint\Quiz-1_Solve.dll
+H:\All\C#\Quiz-1_Solve\Quiz-1_Solve\obj\Debug\net6.0\Quiz-1_Solve.pdb
+H:\All\C#\Quiz-1_Solve\Quiz-1_Solve\obj\Debug\net6.0\Quiz-1_Solve.genruntimeconfig.cache
+H:\All\C#\Quiz-1_Solve\Quiz-1_Solve\obj\Debug\net6.0\ref\Quiz-1_Solve.dll

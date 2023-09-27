@@ -1,0 +1,254 @@
+JWEL MIAH
+20-43243-1
+LabTask 3
+
+
+using System;
+namespace ClassAndObject
+{
+   class Course
+    {
+        public string courseName;
+        private string courseCode;
+        public int courseCredit;
+
+        public Course()
+        {
+            courseCode = " ";
+            Console.WriteLine("Corse code cons called");
+        }
+        public string CourseCode
+        {
+            set
+            {
+                if (value == null)
+                    this.courseCode = null;
+                else
+                    this.courseCode = value;
+            }
+            get { return courseCode; }
+        }
+        public void showCoourseInfo()
+        {
+            Console.WriteLine("Course Name: " + courseName);
+            Console.WriteLine("Course Code: " + courseCode);
+            Console.WriteLine("Course Credit: " + courseCredit);
+        }
+    }
+}
+
+**************
+
+using System;
+
+namespace ClassAndObject
+{
+    class Book
+    {
+        public string bookName = " ";
+        private string bookAuthor = " ";
+        public string bookId;
+        public string bookType = " ";
+        public int bookCopy;
+        public Book()
+        {
+            bookAuthor = "";
+            bookCopy = 0;
+            Console.WriteLine("Book cons called");
+        }
+       public string bookAuthor
+        {
+            set
+            {
+                if (value == null)
+                    this.bookAuthor = null;
+                else
+                    this.bookAuthor = value;
+            }
+            get { return bookAuthor; }
+        }
+        public void showInfo()
+        {
+            Console.WriteLine("Book Name: " + this.bookName);
+            Console.WriteLine("Book Author: " + this.bookAuthor);
+            Console.WriteLine("Boo ID: " + this.bookId);
+            Console.WriteLine("book Type: " + this.bookType );
+            Console.WriteLine("Book Copy: " + this.bookCopy);
+        }
+
+    }
+}
+
+
+****************
+using System;
+namespace ClassAndObject
+{
+    class Contact
+    {
+        public string personName;
+        private string personID;
+        int age;
+        string mobileNumber;
+        public char gender;
+
+        public Contact()
+        {
+            personID = " ";
+            Console.WriteLine("personID called");
+        }
+        public string personID
+        {
+            set { personID = value; }
+            get { return personID; }
+
+        }
+        /*public char gender
+        {
+           Console.Write("Gender Code: ");
+               int x = Int32.Parse(Console.ReadLine());
+               int gender = x;
+               switch (gender)
+               {
+                   case 1:
+                       Console.WriteLine("Gender: Male");
+                       break;
+                   case 2:
+                       Console.WriteLine("Gender: Female");
+                       break;
+                   default:
+                       Console.WriteLine("Gender: others");
+                       break;
+            }
+    }
+               }*/
+    public void showPersonInfo()
+    {
+        Console.WriteLine("Person Name: " +this.personName);
+        Console.WriteLine("Person ID: " +this.personID);
+        Console.WriteLine("Person age: " +this.age);
+        Console.WriteLine("Person mobile number: " +mobileNumber);
+    }
+    public void detectMobileOperator()
+    {
+        
+    }
+}
+
+
+*******************
+using System;
+using System.IO.Pipes;
+
+namespace ClassAndObject
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Course course = new Course()
+            {
+                courseName = "OOP2",
+                coourseCode = 1254,
+                courseCredit = 3
+            };
+
+            Book book = new Book()
+            {
+                bookName = "c-sharp",
+                bookAuthor = "library",
+                bookId = 150,
+                bookType = "programing language",
+                bookCopy = 1
+            };
+
+            Contact contact = new Contact()
+            {
+                personName = "book",
+                personID = 123,
+                mobileNumber = 01811111111
+            };
+
+            Console.ReadKey();
+        }
+    }
+}
+
+
+
+*********************	Task 2 *************
+
+
+using System;
+namespace Car
+{
+    class Vehicle
+    {
+        public string vehicleName = " ";
+        private string vehicleId;
+
+    }
+    class Motorbike : Vehicle
+    {
+
+    }
+    class Truck : Vehicle
+    {
+
+    }
+    class Car : Vehicle
+    {
+
+    }
+    class Saloon : Car
+    {
+
+    }
+    class MPV : Car
+    {
+
+    }
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Vehicle obj1 = new Motorbike();
+            {
+
+            };
+
+            Vehicle obj2 = new Truck();
+            {
+
+            };
+
+            Vehicle obj3 = new Car();
+            {
+
+            };
+
+            Vehicle obj4 = new Saloon();
+            {
+
+            };
+
+            Vehicle obj5 = new MPV();
+            {
+
+            };
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+

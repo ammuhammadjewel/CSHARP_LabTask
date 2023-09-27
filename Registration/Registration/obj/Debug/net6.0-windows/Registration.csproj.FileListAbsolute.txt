@@ -1,0 +1,36 @@
+C:\Users\Nyem Ahmed\source\repos\Registration\Registration\bin\Debug\net6.0-windows\Registration.exe
+C:\Users\Nyem Ahmed\source\repos\Registration\Registration\bin\Debug\net6.0-windows\Registration.deps.json
+C:\Users\Nyem Ahmed\source\repos\Registration\Registration\bin\Debug\net6.0-windows\Registration.runtimeconfig.json
+C:\Users\Nyem Ahmed\source\repos\Registration\Registration\bin\Debug\net6.0-windows\Registration.dll
+C:\Users\Nyem Ahmed\source\repos\Registration\Registration\bin\Debug\net6.0-windows\Registration.pdb
+C:\Users\Nyem Ahmed\source\repos\Registration\Registration\obj\Debug\net6.0-windows\Registration.csproj.AssemblyReference.cache
+C:\Users\Nyem Ahmed\source\repos\Registration\Registration\obj\Debug\net6.0-windows\Registration.Form1.resources
+C:\Users\Nyem Ahmed\source\repos\Registration\Registration\obj\Debug\net6.0-windows\Registration.csproj.GenerateResource.cache
+C:\Users\Nyem Ahmed\source\repos\Registration\Registration\obj\Debug\net6.0-windows\Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyem Ahmed\source\repos\Registration\Registration\obj\Debug\net6.0-windows\Registration.AssemblyInfoInputs.cache
+C:\Users\Nyem Ahmed\source\repos\Registration\Registration\obj\Debug\net6.0-windows\Registration.AssemblyInfo.cs
+C:\Users\Nyem Ahmed\source\repos\Registration\Registration\obj\Debug\net6.0-windows\Registration.csproj.CoreCompileInputs.cache
+C:\Users\Nyem Ahmed\source\repos\Registration\Registration\obj\Debug\net6.0-windows\Registration.dll
+C:\Users\Nyem Ahmed\source\repos\Registration\Registration\obj\Debug\net6.0-windows\refint\Registration.dll
+C:\Users\Nyem Ahmed\source\repos\Registration\Registration\obj\Debug\net6.0-windows\Registration.pdb
+C:\Users\Nyem Ahmed\source\repos\Registration\Registration\obj\Debug\net6.0-windows\Registration.genruntimeconfig.cache
+C:\Users\Nyem Ahmed\source\repos\Registration\Registration\obj\Debug\net6.0-windows\ref\Registration.dll
+C:\Users\Nyem Ahmed\source\repos\Registration\Registration\obj\Debug\net6.0-windows\Registration.Registration.resources
+H:\All\C#\Registration\Registration\bin\Debug\net6.0-windows\Registration.exe
+H:\All\C#\Registration\Registration\bin\Debug\net6.0-windows\Registration.deps.json
+H:\All\C#\Registration\Registration\bin\Debug\net6.0-windows\Registration.runtimeconfig.json
+H:\All\C#\Registration\Registration\bin\Debug\net6.0-windows\Registration.dll
+H:\All\C#\Registration\Registration\bin\Debug\net6.0-windows\Registration.pdb
+H:\All\C#\Registration\Registration\obj\Debug\net6.0-windows\Registration.csproj.AssemblyReference.cache
+H:\All\C#\Registration\Registration\obj\Debug\net6.0-windows\Registration.Form1.resources
+H:\All\C#\Registration\Registration\obj\Debug\net6.0-windows\Registration.Registration.resources
+H:\All\C#\Registration\Registration\obj\Debug\net6.0-windows\Registration.csproj.GenerateResource.cache
+H:\All\C#\Registration\Registration\obj\Debug\net6.0-windows\Registration.GeneratedMSBuildEditorConfig.editorconfig
+H:\All\C#\Registration\Registration\obj\Debug\net6.0-windows\Registration.AssemblyInfoInputs.cache
+H:\All\C#\Registration\Registration\obj\Debug\net6.0-windows\Registration.AssemblyInfo.cs
+H:\All\C#\Registration\Registration\obj\Debug\net6.0-windows\Registration.csproj.CoreCompileInputs.cache
+H:\All\C#\Registration\Registration\obj\Debug\net6.0-windows\Registration.dll
+H:\All\C#\Registration\Registration\obj\Debug\net6.0-windows\refint\Registration.dll
+H:\All\C#\Registration\Registration\obj\Debug\net6.0-windows\Registration.pdb
+H:\All\C#\Registration\Registration\obj\Debug\net6.0-windows\Registration.genruntimeconfig.cache
+H:\All\C#\Registration\Registration\obj\Debug\net6.0-windows\ref\Registration.dll

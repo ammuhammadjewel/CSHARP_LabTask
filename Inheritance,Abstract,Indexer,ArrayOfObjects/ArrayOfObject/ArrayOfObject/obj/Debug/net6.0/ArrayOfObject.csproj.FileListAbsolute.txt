@@ -1,0 +1,15 @@
+C:\Users\Nyem Ahmed\source\repos\ArrayOfObject\ArrayOfObject\bin\Debug\net6.0\ArrayOfObject.exe
+C:\Users\Nyem Ahmed\source\repos\ArrayOfObject\ArrayOfObject\bin\Debug\net6.0\ArrayOfObject.deps.json
+C:\Users\Nyem Ahmed\source\repos\ArrayOfObject\ArrayOfObject\bin\Debug\net6.0\ArrayOfObject.runtimeconfig.json
+C:\Users\Nyem Ahmed\source\repos\ArrayOfObject\ArrayOfObject\bin\Debug\net6.0\ArrayOfObject.dll
+C:\Users\Nyem Ahmed\source\repos\ArrayOfObject\ArrayOfObject\bin\Debug\net6.0\ArrayOfObject.pdb
+C:\Users\Nyem Ahmed\source\repos\ArrayOfObject\ArrayOfObject\obj\Debug\net6.0\ArrayOfObject.csproj.AssemblyReference.cache
+C:\Users\Nyem Ahmed\source\repos\ArrayOfObject\ArrayOfObject\obj\Debug\net6.0\ArrayOfObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyem Ahmed\source\repos\ArrayOfObject\ArrayOfObject\obj\Debug\net6.0\ArrayOfObject.AssemblyInfoInputs.cache
+C:\Users\Nyem Ahmed\source\repos\ArrayOfObject\ArrayOfObject\obj\Debug\net6.0\ArrayOfObject.AssemblyInfo.cs
+C:\Users\Nyem Ahmed\source\repos\ArrayOfObject\ArrayOfObject\obj\Debug\net6.0\ArrayOfObject.csproj.CoreCompileInputs.cache
+C:\Users\Nyem Ahmed\source\repos\ArrayOfObject\ArrayOfObject\obj\Debug\net6.0\ArrayOfObject.dll
+C:\Users\Nyem Ahmed\source\repos\ArrayOfObject\ArrayOfObject\obj\Debug\net6.0\refint\ArrayOfObject.dll
+C:\Users\Nyem Ahmed\source\repos\ArrayOfObject\ArrayOfObject\obj\Debug\net6.0\ArrayOfObject.pdb
+C:\Users\Nyem Ahmed\source\repos\ArrayOfObject\ArrayOfObject\obj\Debug\net6.0\ArrayOfObject.genruntimeconfig.cache
+C:\Users\Nyem Ahmed\source\repos\ArrayOfObject\ArrayOfObject\obj\Debug\net6.0\ref\ArrayOfObject.dll

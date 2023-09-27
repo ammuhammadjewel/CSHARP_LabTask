@@ -1,0 +1,30 @@
+C:\Users\Nyem Ahmed\source\repos\Interface\Interface\bin\Debug\net6.0\Interface.exe
+C:\Users\Nyem Ahmed\source\repos\Interface\Interface\bin\Debug\net6.0\Interface.deps.json
+C:\Users\Nyem Ahmed\source\repos\Interface\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
+C:\Users\Nyem Ahmed\source\repos\Interface\Interface\bin\Debug\net6.0\Interface.dll
+C:\Users\Nyem Ahmed\source\repos\Interface\Interface\bin\Debug\net6.0\Interface.pdb
+C:\Users\Nyem Ahmed\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+C:\Users\Nyem Ahmed\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyem Ahmed\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+C:\Users\Nyem Ahmed\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+C:\Users\Nyem Ahmed\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Nyem Ahmed\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.dll
+C:\Users\Nyem Ahmed\source\repos\Interface\Interface\obj\Debug\net6.0\refint\Interface.dll
+C:\Users\Nyem Ahmed\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.pdb
+C:\Users\Nyem Ahmed\source\repos\Interface\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
+C:\Users\Nyem Ahmed\source\repos\Interface\Interface\obj\Debug\net6.0\ref\Interface.dll
+H:\All\C#\Interface\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+H:\All\C#\Interface\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+H:\All\C#\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+H:\All\C#\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+H:\All\C#\Interface\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+H:\All\C#\Interface\Interface\obj\Debug\net6.0\Interface.dll
+H:\All\C#\Interface\Interface\obj\Debug\net6.0\refint\Interface.dll
+H:\All\C#\Interface\Interface\obj\Debug\net6.0\Interface.pdb
+H:\All\C#\Interface\Interface\bin\Debug\net6.0\Interface.exe
+H:\All\C#\Interface\Interface\bin\Debug\net6.0\Interface.deps.json
+H:\All\C#\Interface\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
+H:\All\C#\Interface\Interface\bin\Debug\net6.0\Interface.dll
+H:\All\C#\Interface\Interface\bin\Debug\net6.0\Interface.pdb
+H:\All\C#\Interface\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
+H:\All\C#\Interface\Interface\obj\Debug\net6.0\ref\Interface.dll

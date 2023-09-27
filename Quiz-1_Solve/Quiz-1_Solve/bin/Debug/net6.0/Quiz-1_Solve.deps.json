@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Quiz-1_Solve/1.0.0": {
+        "runtime": {
+          "Quiz-1_Solve.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quiz-1_Solve/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

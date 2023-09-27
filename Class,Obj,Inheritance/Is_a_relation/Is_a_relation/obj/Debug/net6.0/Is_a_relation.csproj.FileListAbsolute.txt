@@ -1,0 +1,15 @@
+C:\Users\Nyem Ahmed\source\repos\Is_a_relation\Is_a_relation\bin\Debug\net6.0\Is_a_relation.exe
+C:\Users\Nyem Ahmed\source\repos\Is_a_relation\Is_a_relation\bin\Debug\net6.0\Is_a_relation.deps.json
+C:\Users\Nyem Ahmed\source\repos\Is_a_relation\Is_a_relation\bin\Debug\net6.0\Is_a_relation.runtimeconfig.json
+C:\Users\Nyem Ahmed\source\repos\Is_a_relation\Is_a_relation\bin\Debug\net6.0\Is_a_relation.dll
+C:\Users\Nyem Ahmed\source\repos\Is_a_relation\Is_a_relation\bin\Debug\net6.0\Is_a_relation.pdb
+C:\Users\Nyem Ahmed\source\repos\Is_a_relation\Is_a_relation\obj\Debug\net6.0\Is_a_relation.csproj.AssemblyReference.cache
+C:\Users\Nyem Ahmed\source\repos\Is_a_relation\Is_a_relation\obj\Debug\net6.0\Is_a_relation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyem Ahmed\source\repos\Is_a_relation\Is_a_relation\obj\Debug\net6.0\Is_a_relation.AssemblyInfoInputs.cache
+C:\Users\Nyem Ahmed\source\repos\Is_a_relation\Is_a_relation\obj\Debug\net6.0\Is_a_relation.AssemblyInfo.cs
+C:\Users\Nyem Ahmed\source\repos\Is_a_relation\Is_a_relation\obj\Debug\net6.0\Is_a_relation.csproj.CoreCompileInputs.cache
+C:\Users\Nyem Ahmed\source\repos\Is_a_relation\Is_a_relation\obj\Debug\net6.0\Is_a_relation.dll
+C:\Users\Nyem Ahmed\source\repos\Is_a_relation\Is_a_relation\obj\Debug\net6.0\refint\Is_a_relation.dll
+C:\Users\Nyem Ahmed\source\repos\Is_a_relation\Is_a_relation\obj\Debug\net6.0\Is_a_relation.pdb
+C:\Users\Nyem Ahmed\source\repos\Is_a_relation\Is_a_relation\obj\Debug\net6.0\Is_a_relation.genruntimeconfig.cache
+C:\Users\Nyem Ahmed\source\repos\Is_a_relation\Is_a_relation\obj\Debug\net6.0\ref\Is_a_relation.dll

@@ -1,0 +1,11 @@
+H:\All\C#\LabExam\LabExam\obj\Debug\LabExam.csproj.AssemblyReference.cache
+H:\All\C#\LabExam\LabExam\obj\Debug\LabExam.csproj.SuggestedBindingRedirects.cache
+H:\All\C#\LabExam\LabExam\obj\Debug\LabExam.Calculator.resources
+H:\All\C#\LabExam\LabExam\obj\Debug\LabExam.Properties.Resources.resources
+H:\All\C#\LabExam\LabExam\obj\Debug\LabExam.csproj.GenerateResource.cache
+H:\All\C#\LabExam\LabExam\obj\Debug\LabExam.csproj.CoreCompileInputs.cache
+H:\All\C#\LabExam\LabExam\bin\Debug\LabExam.exe.config
+H:\All\C#\LabExam\LabExam\bin\Debug\LabExam.exe
+H:\All\C#\LabExam\LabExam\bin\Debug\LabExam.pdb
+H:\All\C#\LabExam\LabExam\obj\Debug\LabExam.exe
+H:\All\C#\LabExam\LabExam\obj\Debug\LabExam.pdb

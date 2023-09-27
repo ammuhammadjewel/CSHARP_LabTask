@@ -1,0 +1,98 @@
+#include <iostream>
+#define size 10
+using namespace std;
+
+ 
+
+class Queue
+{
+    int Front;
+    int Rear;
+    int Q[size];
+public:
+    Queue()
+    {
+        Front = -1;
+        Rear = -1;
+    }
+    
+    void enqueue(int value)
+    {
+        cout<<"enqueueing data "<<value<<" at front"<<endl;
+        if(Q[size]<size)
+        {
+            for(int i=Q[size]-1; i>=0; i--)
+            {
+                Q[size] = Q[size];
+            }
+            Q[size]++;
+            Q[size]= value;
+        }
+        else
+        {
+            cout<<"Array is full"<<endl;
+        }
+    }
+    
+    int dequeue()
+    {
+        cout<<"dequeueing rear data"<<endl;
+        if(Q[size]>0)
+        {
+            Q[size]--;
+        }
+        else
+        {
+            cout<<"queue is empty"<<endl;
+        }  return 0;      
+    }
+    
+    bool isEmpty()
+    {
+        if(Front == -1) return true;
+    else return false;
+    }
+    
+    bool isFull()
+    {
+        if(Front == 0 && Rear == size - 1){
+    return true;
+        }
+    return false;
+    }
+    
+    int frontValue()
+    {
+        return 0;
+    }
+    
+    void printQueue()
+    {
+        int i;
+if(isEmpty()) {
+cout << endl << "Queue is Empty!!" << endl;
+        }
+else {
+cout << endl << "Front = " << Front;
+cout << endl << "Queue elements : ";
+for(i=Front; i<=Rear; i++)
+cout << endl << "Rear = " << Rear << endl;
+        }
+    }
+};
+
+ 
+
+int main()
+{
+    Queue ob;
+    ob.enqueue(6);
+    ob.enqueue(9);
+    ob.enqueue(2);
+    ob.enqueue(4);
+    ob.enqueue(8);
+    ob.printQueue();
+    ob.dequeue();
+    ob.printQueue();
+    return 0;
+}

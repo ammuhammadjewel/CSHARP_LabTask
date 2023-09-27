@@ -1,0 +1,13 @@
+H:\All\C#\QuizTry\QuizTry\bin\Debug\QuizTry.exe.config
+H:\All\C#\QuizTry\QuizTry\bin\Debug\QuizTry.exe
+H:\All\C#\QuizTry\QuizTry\bin\Debug\QuizTry.pdb
+H:\All\C#\QuizTry\QuizTry\obj\Debug\QuizTry.csproj.AssemblyReference.cache
+H:\All\C#\QuizTry\QuizTry\obj\Debug\QuizTry.csproj.SuggestedBindingRedirects.cache
+H:\All\C#\QuizTry\QuizTry\obj\Debug\QuizTry.Form1.resources
+H:\All\C#\QuizTry\QuizTry\obj\Debug\QuizTry.Form2.resources
+H:\All\C#\QuizTry\QuizTry\obj\Debug\QuizTry.Form3.resources
+H:\All\C#\QuizTry\QuizTry\obj\Debug\QuizTry.Properties.Resources.resources
+H:\All\C#\QuizTry\QuizTry\obj\Debug\QuizTry.csproj.GenerateResource.cache
+H:\All\C#\QuizTry\QuizTry\obj\Debug\QuizTry.csproj.CoreCompileInputs.cache
+H:\All\C#\QuizTry\QuizTry\obj\Debug\QuizTry.exe
+H:\All\C#\QuizTry\QuizTry\obj\Debug\QuizTry.pdb

@@ -1,0 +1,15 @@
+H:\All\C#\Labtask__2\Labtask__2\bin\Debug\net6.0\Labtask__2.exe
+H:\All\C#\Labtask__2\Labtask__2\bin\Debug\net6.0\Labtask__2.deps.json
+H:\All\C#\Labtask__2\Labtask__2\bin\Debug\net6.0\Labtask__2.runtimeconfig.json
+H:\All\C#\Labtask__2\Labtask__2\bin\Debug\net6.0\Labtask__2.dll
+H:\All\C#\Labtask__2\Labtask__2\bin\Debug\net6.0\Labtask__2.pdb
+H:\All\C#\Labtask__2\Labtask__2\obj\Debug\net6.0\Labtask__2.csproj.AssemblyReference.cache
+H:\All\C#\Labtask__2\Labtask__2\obj\Debug\net6.0\Labtask__2.GeneratedMSBuildEditorConfig.editorconfig
+H:\All\C#\Labtask__2\Labtask__2\obj\Debug\net6.0\Labtask__2.AssemblyInfoInputs.cache
+H:\All\C#\Labtask__2\Labtask__2\obj\Debug\net6.0\Labtask__2.AssemblyInfo.cs
+H:\All\C#\Labtask__2\Labtask__2\obj\Debug\net6.0\Labtask__2.csproj.CoreCompileInputs.cache
+H:\All\C#\Labtask__2\Labtask__2\obj\Debug\net6.0\Labtask__2.dll
+H:\All\C#\Labtask__2\Labtask__2\obj\Debug\net6.0\refint\Labtask__2.dll
+H:\All\C#\Labtask__2\Labtask__2\obj\Debug\net6.0\Labtask__2.pdb
+H:\All\C#\Labtask__2\Labtask__2\obj\Debug\net6.0\Labtask__2.genruntimeconfig.cache
+H:\All\C#\Labtask__2\Labtask__2\obj\Debug\net6.0\ref\Labtask__2.dll

@@ -1,0 +1,13 @@
+H:\All\C#\CRUD_Database\CRUD_Database\bin\Debug\Database1.mdf
+H:\All\C#\CRUD_Database\CRUD_Database\bin\Debug\Database1_log.ldf
+H:\All\C#\CRUD_Database\CRUD_Database\bin\Debug\CRUD_Database.exe.config
+H:\All\C#\CRUD_Database\CRUD_Database\bin\Debug\CRUD_Database.exe
+H:\All\C#\CRUD_Database\CRUD_Database\bin\Debug\CRUD_Database.pdb
+H:\All\C#\CRUD_Database\CRUD_Database\obj\Debug\CRUD_Database.csproj.AssemblyReference.cache
+H:\All\C#\CRUD_Database\CRUD_Database\obj\Debug\CRUD_Database.csproj.SuggestedBindingRedirects.cache
+H:\All\C#\CRUD_Database\CRUD_Database\obj\Debug\CRUD_Database.Form1.resources
+H:\All\C#\CRUD_Database\CRUD_Database\obj\Debug\CRUD_Database.Properties.Resources.resources
+H:\All\C#\CRUD_Database\CRUD_Database\obj\Debug\CRUD_Database.csproj.GenerateResource.cache
+H:\All\C#\CRUD_Database\CRUD_Database\obj\Debug\CRUD_Database.csproj.CoreCompileInputs.cache
+H:\All\C#\CRUD_Database\CRUD_Database\obj\Debug\CRUD_Database.exe
+H:\All\C#\CRUD_Database\CRUD_Database\obj\Debug\CRUD_Database.pdb

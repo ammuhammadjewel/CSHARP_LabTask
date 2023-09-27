@@ -1,0 +1,114 @@
+namespace Contact
+{
+    class Contact
+    {
+        private string personName, personId , mobileNumber;
+        private char gender; 
+        private int age;
+
+    public Contact()
+    {
+        this.personName = "";
+        this.personId = "";
+        this.mobileNumber = "";
+        this.gender = '\0';
+        this.age = 0;
+
+    }
+    public Contact(string personName, string personId, string mobileNumber,char gender, int age)
+    { 
+          this.personName =personName ;
+               this.personId =personId;
+                this. mobileNumber = mobileNumber;
+                this.gender=gender;
+                this.age=age;
+
+    }
+    public void SetPersonName(string personName)
+    {
+        this.personName = personName;
+    }
+    public void SetPersonId(string personId)
+    {
+        this.personId = personId;
+    }
+    public void  SetMobileNumber(string mobileNumber)
+    {
+         this. mobileNumber = mobileNumber;
+    }
+    public void SetGender(char gender)
+    {
+        this.gender = gender;
+    }
+    public void SetAge(int age)
+    {
+        this.age = age;
+    }
+    public string GetPersonName()
+    {
+        return this.personName;
+    }
+    public string GetPersonId()
+    {
+        return this.personId;
+    }
+    public string GetMobileNumber()
+    {
+        return this.mobileNumber;
+    }
+    public char GetGender()
+    {
+        return this.gender;
+    }
+    public int GetAge()
+    {
+        return this.age;
+    }
+   public void DetectMobileOperator()
+    {
+
+
+        if (this.mobileNumber[2] == 7)
+        {
+            Console.WriteLine("Gp");
+        }
+        else if (this.mobileNumber[2] == 9)
+        {
+            Console.WriteLine("Banglalink");
+        }
+        else if (this.mobileNumber[2] == 8)
+        {
+            Console.WriteLine("Robi");
+        }
+
+
+    }
+   public void ShowPersonInfo()
+   {
+       Console.WriteLine("PersonName: {0}\npersonId: {1}\nMobilenumber: {2}\nGender: {3}\nAge: {4}", this.personName, this.personId, this.mobileNumber, this.gender,this.age);
+   }
+
+
+
+
+}
+}
+
+namespace Contact
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+         Contact c = new Contact("jerin","14255581","01782813945",'F',22);
+
+        c.ShowPersonInfo();
+        c.DetectMobileOperator();
+
+
+
+    }
+}
+}
+
+

@@ -1,0 +1,23 @@
+Jwel Miah
+20-43243-1
+
+
+1.create table department1(deptid number(3) primary 
+key,dept_name varchar(6) check(dept_name='CSE' or 
+dept_name='EEE' or dept_name='BBA' or 
+dept_name='Eng' or dept_name='Ach'),budget number(6) 
+default 0); 
+ 
+2.create table course1(crs_id number(4) primary key,crs_name 
+varchar2(20) not null, 
+deptid number(3)); 
+ 
+alter table course1 add constraint fk5 foreign key (deptid) 
+references department1(deptid); 
+ 
+ 
+3.create table stu1(s_id Number,s_name Varchar2(20), 
+Phone Number,Address Varchar2(50),Email 
+Varchar2(30),credit_completed Number(3), 
+course_completed Number(2),CGPA Number(3,2),Deptno 
+number(5),Gender Varchar2(6));

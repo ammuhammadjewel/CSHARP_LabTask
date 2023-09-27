@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Final Quiz Student/1.0.0": {
+        "runtime": {
+          "Final Quiz Student.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Final Quiz Student/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

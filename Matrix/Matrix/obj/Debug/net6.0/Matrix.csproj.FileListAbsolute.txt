@@ -1,0 +1,15 @@
+H:\All\C#\Matrix\Matrix\bin\Debug\net6.0\Matrix.exe
+H:\All\C#\Matrix\Matrix\bin\Debug\net6.0\Matrix.deps.json
+H:\All\C#\Matrix\Matrix\bin\Debug\net6.0\Matrix.runtimeconfig.json
+H:\All\C#\Matrix\Matrix\bin\Debug\net6.0\Matrix.dll
+H:\All\C#\Matrix\Matrix\bin\Debug\net6.0\Matrix.pdb
+H:\All\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.csproj.AssemblyReference.cache
+H:\All\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+H:\All\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfoInputs.cache
+H:\All\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfo.cs
+H:\All\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.csproj.CoreCompileInputs.cache
+H:\All\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.dll
+H:\All\C#\Matrix\Matrix\obj\Debug\net6.0\refint\Matrix.dll
+H:\All\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.pdb
+H:\All\C#\Matrix\Matrix\obj\Debug\net6.0\Matrix.genruntimeconfig.cache
+H:\All\C#\Matrix\Matrix\obj\Debug\net6.0\ref\Matrix.dll

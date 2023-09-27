@@ -1,0 +1,15 @@
+H:\All\C#\Shape\Shape\obj\Debug\net6.0\Shape.csproj.AssemblyReference.cache
+H:\All\C#\Shape\Shape\obj\Debug\net6.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+H:\All\C#\Shape\Shape\obj\Debug\net6.0\Shape.AssemblyInfoInputs.cache
+H:\All\C#\Shape\Shape\obj\Debug\net6.0\Shape.AssemblyInfo.cs
+H:\All\C#\Shape\Shape\obj\Debug\net6.0\Shape.csproj.CoreCompileInputs.cache
+H:\All\C#\Shape\Shape\bin\Debug\net6.0\Shape.exe
+H:\All\C#\Shape\Shape\bin\Debug\net6.0\Shape.deps.json
+H:\All\C#\Shape\Shape\bin\Debug\net6.0\Shape.runtimeconfig.json
+H:\All\C#\Shape\Shape\bin\Debug\net6.0\Shape.dll
+H:\All\C#\Shape\Shape\bin\Debug\net6.0\Shape.pdb
+H:\All\C#\Shape\Shape\obj\Debug\net6.0\Shape.dll
+H:\All\C#\Shape\Shape\obj\Debug\net6.0\refint\Shape.dll
+H:\All\C#\Shape\Shape\obj\Debug\net6.0\Shape.pdb
+H:\All\C#\Shape\Shape\obj\Debug\net6.0\Shape.genruntimeconfig.cache
+H:\All\C#\Shape\Shape\obj\Debug\net6.0\ref\Shape.dll

@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\labTask1\labTask1\bin\Debug\net6.0\labTask1.exe
+C:\Users\Asus\source\repos\labTask1\labTask1\bin\Debug\net6.0\labTask1.deps.json
+C:\Users\Asus\source\repos\labTask1\labTask1\bin\Debug\net6.0\labTask1.runtimeconfig.json
+C:\Users\Asus\source\repos\labTask1\labTask1\bin\Debug\net6.0\labTask1.dll
+C:\Users\Asus\source\repos\labTask1\labTask1\bin\Debug\net6.0\labTask1.pdb
+C:\Users\Asus\source\repos\labTask1\labTask1\obj\Debug\net6.0\labTask1.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\labTask1\labTask1\obj\Debug\net6.0\labTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\labTask1\labTask1\obj\Debug\net6.0\labTask1.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\labTask1\labTask1\obj\Debug\net6.0\labTask1.AssemblyInfo.cs
+C:\Users\Asus\source\repos\labTask1\labTask1\obj\Debug\net6.0\labTask1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\labTask1\labTask1\obj\Debug\net6.0\labTask1.dll
+C:\Users\Asus\source\repos\labTask1\labTask1\obj\Debug\net6.0\refint\labTask1.dll
+C:\Users\Asus\source\repos\labTask1\labTask1\obj\Debug\net6.0\labTask1.pdb
+C:\Users\Asus\source\repos\labTask1\labTask1\obj\Debug\net6.0\labTask1.genruntimeconfig.cache
+C:\Users\Asus\source\repos\labTask1\labTask1\obj\Debug\net6.0\ref\labTask1.dll

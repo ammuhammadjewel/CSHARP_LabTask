@@ -1,0 +1,50 @@
+C:\Users\Nyem Ahmed\source\repos\Database\Database\bin\Debug\net6.0-windows\Database.exe
+C:\Users\Nyem Ahmed\source\repos\Database\Database\bin\Debug\net6.0-windows\Database.deps.json
+C:\Users\Nyem Ahmed\source\repos\Database\Database\bin\Debug\net6.0-windows\Database.runtimeconfig.json
+C:\Users\Nyem Ahmed\source\repos\Database\Database\bin\Debug\net6.0-windows\Database.dll
+C:\Users\Nyem Ahmed\source\repos\Database\Database\bin\Debug\net6.0-windows\Database.pdb
+C:\Users\Nyem Ahmed\source\repos\Database\Database\obj\Debug\net6.0-windows\Database.csproj.AssemblyReference.cache
+C:\Users\Nyem Ahmed\source\repos\Database\Database\obj\Debug\net6.0-windows\Database.Form1.resources
+C:\Users\Nyem Ahmed\source\repos\Database\Database\obj\Debug\net6.0-windows\Database.Login.resources
+C:\Users\Nyem Ahmed\source\repos\Database\Database\obj\Debug\net6.0-windows\Database.csproj.GenerateResource.cache
+C:\Users\Nyem Ahmed\source\repos\Database\Database\obj\Debug\net6.0-windows\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyem Ahmed\source\repos\Database\Database\obj\Debug\net6.0-windows\Database.AssemblyInfoInputs.cache
+C:\Users\Nyem Ahmed\source\repos\Database\Database\obj\Debug\net6.0-windows\Database.AssemblyInfo.cs
+C:\Users\Nyem Ahmed\source\repos\Database\Database\obj\Debug\net6.0-windows\Database.csproj.CoreCompileInputs.cache
+C:\Users\Nyem Ahmed\source\repos\Database\Database\obj\Debug\net6.0-windows\Database.dll
+C:\Users\Nyem Ahmed\source\repos\Database\Database\obj\Debug\net6.0-windows\refint\Database.dll
+C:\Users\Nyem Ahmed\source\repos\Database\Database\obj\Debug\net6.0-windows\Database.pdb
+C:\Users\Nyem Ahmed\source\repos\Database\Database\obj\Debug\net6.0-windows\Database.genruntimeconfig.cache
+C:\Users\Nyem Ahmed\source\repos\Database\Database\obj\Debug\net6.0-windows\ref\Database.dll
+C:\Users\Nyem Ahmed\source\repos\Database\Database\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Nyem Ahmed\source\repos\Database\Database\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Nyem Ahmed\source\repos\Database\Database\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Nyem Ahmed\source\repos\Database\Database\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Nyem Ahmed\source\repos\Database\Database\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nyem Ahmed\source\repos\Database\Database\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nyem Ahmed\source\repos\Database\Database\obj\Debug\net6.0-windows\Database.csproj.CopyComplete
+H:\All\C#\Database\Database\bin\Debug\net6.0-windows\Database.exe
+H:\All\C#\Database\Database\bin\Debug\net6.0-windows\Database.deps.json
+H:\All\C#\Database\Database\bin\Debug\net6.0-windows\Database.runtimeconfig.json
+H:\All\C#\Database\Database\bin\Debug\net6.0-windows\Database.dll
+H:\All\C#\Database\Database\bin\Debug\net6.0-windows\Database.pdb
+H:\All\C#\Database\Database\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+H:\All\C#\Database\Database\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+H:\All\C#\Database\Database\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+H:\All\C#\Database\Database\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+H:\All\C#\Database\Database\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\All\C#\Database\Database\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\All\C#\Database\Database\obj\Debug\net6.0-windows\Database.csproj.AssemblyReference.cache
+H:\All\C#\Database\Database\obj\Debug\net6.0-windows\Database.Form1.resources
+H:\All\C#\Database\Database\obj\Debug\net6.0-windows\Database.Login.resources
+H:\All\C#\Database\Database\obj\Debug\net6.0-windows\Database.csproj.GenerateResource.cache
+H:\All\C#\Database\Database\obj\Debug\net6.0-windows\Database.GeneratedMSBuildEditorConfig.editorconfig
+H:\All\C#\Database\Database\obj\Debug\net6.0-windows\Database.AssemblyInfoInputs.cache
+H:\All\C#\Database\Database\obj\Debug\net6.0-windows\Database.AssemblyInfo.cs
+H:\All\C#\Database\Database\obj\Debug\net6.0-windows\Database.csproj.CoreCompileInputs.cache
+H:\All\C#\Database\Database\obj\Debug\net6.0-windows\Database.csproj.CopyComplete
+H:\All\C#\Database\Database\obj\Debug\net6.0-windows\Database.dll
+H:\All\C#\Database\Database\obj\Debug\net6.0-windows\refint\Database.dll
+H:\All\C#\Database\Database\obj\Debug\net6.0-windows\Database.pdb
+H:\All\C#\Database\Database\obj\Debug\net6.0-windows\Database.genruntimeconfig.cache
+H:\All\C#\Database\Database\obj\Debug\net6.0-windows\ref\Database.dll

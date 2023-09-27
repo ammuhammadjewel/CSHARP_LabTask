@@ -1,0 +1,30 @@
+C:\Users\Nyem Ahmed\source\repos\PartialCLass\PartialCLass\bin\Debug\net6.0\PartialCLass.exe
+C:\Users\Nyem Ahmed\source\repos\PartialCLass\PartialCLass\bin\Debug\net6.0\PartialCLass.deps.json
+C:\Users\Nyem Ahmed\source\repos\PartialCLass\PartialCLass\bin\Debug\net6.0\PartialCLass.runtimeconfig.json
+C:\Users\Nyem Ahmed\source\repos\PartialCLass\PartialCLass\bin\Debug\net6.0\PartialCLass.dll
+C:\Users\Nyem Ahmed\source\repos\PartialCLass\PartialCLass\bin\Debug\net6.0\PartialCLass.pdb
+C:\Users\Nyem Ahmed\source\repos\PartialCLass\PartialCLass\obj\Debug\net6.0\PartialCLass.csproj.AssemblyReference.cache
+C:\Users\Nyem Ahmed\source\repos\PartialCLass\PartialCLass\obj\Debug\net6.0\PartialCLass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyem Ahmed\source\repos\PartialCLass\PartialCLass\obj\Debug\net6.0\PartialCLass.AssemblyInfoInputs.cache
+C:\Users\Nyem Ahmed\source\repos\PartialCLass\PartialCLass\obj\Debug\net6.0\PartialCLass.AssemblyInfo.cs
+C:\Users\Nyem Ahmed\source\repos\PartialCLass\PartialCLass\obj\Debug\net6.0\PartialCLass.csproj.CoreCompileInputs.cache
+C:\Users\Nyem Ahmed\source\repos\PartialCLass\PartialCLass\obj\Debug\net6.0\PartialCLass.dll
+C:\Users\Nyem Ahmed\source\repos\PartialCLass\PartialCLass\obj\Debug\net6.0\refint\PartialCLass.dll
+C:\Users\Nyem Ahmed\source\repos\PartialCLass\PartialCLass\obj\Debug\net6.0\PartialCLass.pdb
+C:\Users\Nyem Ahmed\source\repos\PartialCLass\PartialCLass\obj\Debug\net6.0\PartialCLass.genruntimeconfig.cache
+C:\Users\Nyem Ahmed\source\repos\PartialCLass\PartialCLass\obj\Debug\net6.0\ref\PartialCLass.dll
+H:\All\C#\PartialCLass\PartialCLass\bin\Debug\net6.0\PartialCLass.exe
+H:\All\C#\PartialCLass\PartialCLass\bin\Debug\net6.0\PartialCLass.deps.json
+H:\All\C#\PartialCLass\PartialCLass\bin\Debug\net6.0\PartialCLass.runtimeconfig.json
+H:\All\C#\PartialCLass\PartialCLass\bin\Debug\net6.0\PartialCLass.dll
+H:\All\C#\PartialCLass\PartialCLass\bin\Debug\net6.0\PartialCLass.pdb
+H:\All\C#\PartialCLass\PartialCLass\obj\Debug\net6.0\PartialCLass.csproj.AssemblyReference.cache
+H:\All\C#\PartialCLass\PartialCLass\obj\Debug\net6.0\PartialCLass.GeneratedMSBuildEditorConfig.editorconfig
+H:\All\C#\PartialCLass\PartialCLass\obj\Debug\net6.0\PartialCLass.AssemblyInfoInputs.cache
+H:\All\C#\PartialCLass\PartialCLass\obj\Debug\net6.0\PartialCLass.AssemblyInfo.cs
+H:\All\C#\PartialCLass\PartialCLass\obj\Debug\net6.0\PartialCLass.csproj.CoreCompileInputs.cache
+H:\All\C#\PartialCLass\PartialCLass\obj\Debug\net6.0\PartialCLass.dll
+H:\All\C#\PartialCLass\PartialCLass\obj\Debug\net6.0\refint\PartialCLass.dll
+H:\All\C#\PartialCLass\PartialCLass\obj\Debug\net6.0\PartialCLass.pdb
+H:\All\C#\PartialCLass\PartialCLass\obj\Debug\net6.0\PartialCLass.genruntimeconfig.cache
+H:\All\C#\PartialCLass\PartialCLass\obj\Debug\net6.0\ref\PartialCLass.dll

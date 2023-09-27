@@ -1,0 +1,15 @@
+H:\All\C#\LabTask_2(performance)\LabTask_2(performance)\bin\Debug\net6.0\LabTask_2(performance).exe
+H:\All\C#\LabTask_2(performance)\LabTask_2(performance)\bin\Debug\net6.0\LabTask_2(performance).deps.json
+H:\All\C#\LabTask_2(performance)\LabTask_2(performance)\bin\Debug\net6.0\LabTask_2(performance).runtimeconfig.json
+H:\All\C#\LabTask_2(performance)\LabTask_2(performance)\bin\Debug\net6.0\LabTask_2(performance).dll
+H:\All\C#\LabTask_2(performance)\LabTask_2(performance)\bin\Debug\net6.0\LabTask_2(performance).pdb
+H:\All\C#\LabTask_2(performance)\LabTask_2(performance)\obj\Debug\net6.0\LabTask_2(performance).csproj.AssemblyReference.cache
+H:\All\C#\LabTask_2(performance)\LabTask_2(performance)\obj\Debug\net6.0\LabTask_2(performance).GeneratedMSBuildEditorConfig.editorconfig
+H:\All\C#\LabTask_2(performance)\LabTask_2(performance)\obj\Debug\net6.0\LabTask_2(performance).AssemblyInfoInputs.cache
+H:\All\C#\LabTask_2(performance)\LabTask_2(performance)\obj\Debug\net6.0\LabTask_2(performance).AssemblyInfo.cs
+H:\All\C#\LabTask_2(performance)\LabTask_2(performance)\obj\Debug\net6.0\LabTask_2(performance).csproj.CoreCompileInputs.cache
+H:\All\C#\LabTask_2(performance)\LabTask_2(performance)\obj\Debug\net6.0\LabTask_2(performance).dll
+H:\All\C#\LabTask_2(performance)\LabTask_2(performance)\obj\Debug\net6.0\refint\LabTask_2(performance).dll
+H:\All\C#\LabTask_2(performance)\LabTask_2(performance)\obj\Debug\net6.0\LabTask_2(performance).pdb
+H:\All\C#\LabTask_2(performance)\LabTask_2(performance)\obj\Debug\net6.0\LabTask_2(performance).genruntimeconfig.cache
+H:\All\C#\LabTask_2(performance)\LabTask_2(performance)\obj\Debug\net6.0\ref\LabTask_2(performance).dll

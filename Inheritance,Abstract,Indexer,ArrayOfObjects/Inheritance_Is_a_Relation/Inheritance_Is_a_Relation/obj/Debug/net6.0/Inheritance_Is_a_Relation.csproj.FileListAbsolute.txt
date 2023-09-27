@@ -1,0 +1,15 @@
+C:\Users\Nyem Ahmed\source\repos\Inheritance_Is_a_Relation\Inheritance_Is_a_Relation\bin\Debug\net6.0\Inheritance_Is_a_Relation.exe
+C:\Users\Nyem Ahmed\source\repos\Inheritance_Is_a_Relation\Inheritance_Is_a_Relation\bin\Debug\net6.0\Inheritance_Is_a_Relation.deps.json
+C:\Users\Nyem Ahmed\source\repos\Inheritance_Is_a_Relation\Inheritance_Is_a_Relation\bin\Debug\net6.0\Inheritance_Is_a_Relation.runtimeconfig.json
+C:\Users\Nyem Ahmed\source\repos\Inheritance_Is_a_Relation\Inheritance_Is_a_Relation\bin\Debug\net6.0\Inheritance_Is_a_Relation.dll
+C:\Users\Nyem Ahmed\source\repos\Inheritance_Is_a_Relation\Inheritance_Is_a_Relation\bin\Debug\net6.0\Inheritance_Is_a_Relation.pdb
+C:\Users\Nyem Ahmed\source\repos\Inheritance_Is_a_Relation\Inheritance_Is_a_Relation\obj\Debug\net6.0\Inheritance_Is_a_Relation.csproj.AssemblyReference.cache
+C:\Users\Nyem Ahmed\source\repos\Inheritance_Is_a_Relation\Inheritance_Is_a_Relation\obj\Debug\net6.0\Inheritance_Is_a_Relation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyem Ahmed\source\repos\Inheritance_Is_a_Relation\Inheritance_Is_a_Relation\obj\Debug\net6.0\Inheritance_Is_a_Relation.AssemblyInfoInputs.cache
+C:\Users\Nyem Ahmed\source\repos\Inheritance_Is_a_Relation\Inheritance_Is_a_Relation\obj\Debug\net6.0\Inheritance_Is_a_Relation.AssemblyInfo.cs
+C:\Users\Nyem Ahmed\source\repos\Inheritance_Is_a_Relation\Inheritance_Is_a_Relation\obj\Debug\net6.0\Inheritance_Is_a_Relation.csproj.CoreCompileInputs.cache
+C:\Users\Nyem Ahmed\source\repos\Inheritance_Is_a_Relation\Inheritance_Is_a_Relation\obj\Debug\net6.0\Inheritance_Is_a_Relation.dll
+C:\Users\Nyem Ahmed\source\repos\Inheritance_Is_a_Relation\Inheritance_Is_a_Relation\obj\Debug\net6.0\refint\Inheritance_Is_a_Relation.dll
+C:\Users\Nyem Ahmed\source\repos\Inheritance_Is_a_Relation\Inheritance_Is_a_Relation\obj\Debug\net6.0\Inheritance_Is_a_Relation.pdb
+C:\Users\Nyem Ahmed\source\repos\Inheritance_Is_a_Relation\Inheritance_Is_a_Relation\obj\Debug\net6.0\Inheritance_Is_a_Relation.genruntimeconfig.cache
+C:\Users\Nyem Ahmed\source\repos\Inheritance_Is_a_Relation\Inheritance_Is_a_Relation\obj\Debug\net6.0\ref\Inheritance_Is_a_Relation.dll

@@ -1,0 +1,15 @@
+C:\Users\Nyem Ahmed\source\repos\Class-Obje\Class-Obje\bin\Debug\net6.0\Class-Obje.exe
+C:\Users\Nyem Ahmed\source\repos\Class-Obje\Class-Obje\bin\Debug\net6.0\Class-Obje.deps.json
+C:\Users\Nyem Ahmed\source\repos\Class-Obje\Class-Obje\bin\Debug\net6.0\Class-Obje.runtimeconfig.json
+C:\Users\Nyem Ahmed\source\repos\Class-Obje\Class-Obje\bin\Debug\net6.0\Class-Obje.dll
+C:\Users\Nyem Ahmed\source\repos\Class-Obje\Class-Obje\bin\Debug\net6.0\Class-Obje.pdb
+C:\Users\Nyem Ahmed\source\repos\Class-Obje\Class-Obje\obj\Debug\net6.0\Class-Obje.csproj.AssemblyReference.cache
+C:\Users\Nyem Ahmed\source\repos\Class-Obje\Class-Obje\obj\Debug\net6.0\Class-Obje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyem Ahmed\source\repos\Class-Obje\Class-Obje\obj\Debug\net6.0\Class-Obje.AssemblyInfoInputs.cache
+C:\Users\Nyem Ahmed\source\repos\Class-Obje\Class-Obje\obj\Debug\net6.0\Class-Obje.AssemblyInfo.cs
+C:\Users\Nyem Ahmed\source\repos\Class-Obje\Class-Obje\obj\Debug\net6.0\Class-Obje.csproj.CoreCompileInputs.cache
+C:\Users\Nyem Ahmed\source\repos\Class-Obje\Class-Obje\obj\Debug\net6.0\Class-Obje.dll
+C:\Users\Nyem Ahmed\source\repos\Class-Obje\Class-Obje\obj\Debug\net6.0\refint\Class-Obje.dll
+C:\Users\Nyem Ahmed\source\repos\Class-Obje\Class-Obje\obj\Debug\net6.0\Class-Obje.pdb
+C:\Users\Nyem Ahmed\source\repos\Class-Obje\Class-Obje\obj\Debug\net6.0\Class-Obje.genruntimeconfig.cache
+C:\Users\Nyem Ahmed\source\repos\Class-Obje\Class-Obje\obj\Debug\net6.0\ref\Class-Obje.dll

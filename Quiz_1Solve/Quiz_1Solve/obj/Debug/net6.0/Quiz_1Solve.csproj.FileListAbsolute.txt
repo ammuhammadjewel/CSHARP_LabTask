@@ -1,0 +1,15 @@
+H:\All\C#\Quiz_1Solve\Quiz_1Solve\bin\Debug\net6.0\Quiz_1Solve.exe
+H:\All\C#\Quiz_1Solve\Quiz_1Solve\bin\Debug\net6.0\Quiz_1Solve.deps.json
+H:\All\C#\Quiz_1Solve\Quiz_1Solve\bin\Debug\net6.0\Quiz_1Solve.runtimeconfig.json
+H:\All\C#\Quiz_1Solve\Quiz_1Solve\bin\Debug\net6.0\Quiz_1Solve.dll
+H:\All\C#\Quiz_1Solve\Quiz_1Solve\bin\Debug\net6.0\Quiz_1Solve.pdb
+H:\All\C#\Quiz_1Solve\Quiz_1Solve\obj\Debug\net6.0\Quiz_1Solve.csproj.AssemblyReference.cache
+H:\All\C#\Quiz_1Solve\Quiz_1Solve\obj\Debug\net6.0\Quiz_1Solve.GeneratedMSBuildEditorConfig.editorconfig
+H:\All\C#\Quiz_1Solve\Quiz_1Solve\obj\Debug\net6.0\Quiz_1Solve.AssemblyInfoInputs.cache
+H:\All\C#\Quiz_1Solve\Quiz_1Solve\obj\Debug\net6.0\Quiz_1Solve.AssemblyInfo.cs
+H:\All\C#\Quiz_1Solve\Quiz_1Solve\obj\Debug\net6.0\Quiz_1Solve.csproj.CoreCompileInputs.cache
+H:\All\C#\Quiz_1Solve\Quiz_1Solve\obj\Debug\net6.0\Quiz_1Solve.dll
+H:\All\C#\Quiz_1Solve\Quiz_1Solve\obj\Debug\net6.0\refint\Quiz_1Solve.dll
+H:\All\C#\Quiz_1Solve\Quiz_1Solve\obj\Debug\net6.0\Quiz_1Solve.pdb
+H:\All\C#\Quiz_1Solve\Quiz_1Solve\obj\Debug\net6.0\Quiz_1Solve.genruntimeconfig.cache
+H:\All\C#\Quiz_1Solve\Quiz_1Solve\obj\Debug\net6.0\ref\Quiz_1Solve.dll

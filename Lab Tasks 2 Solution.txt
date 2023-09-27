@@ -1,0 +1,151 @@
+******************************Problem 1***************************************
+namespace ConsoleApp1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Dashboard of student information");
+            
+            string[] studentDetails = new string[9];
+            for(int i=0; i<9; i++)
+            {
+                if (i == 0)
+                {
+                    Console.Write("First Name:");
+                    studentDetails[i] = Console.ReadLine();
+                }
+                else if (i == 1)
+                {
+                    Console.Write("Last Name:");
+                    studentDetails[i] = Console.ReadLine();
+                }
+                else if (i == 2)
+                {
+                    Console.Write("Birthdate:");
+                    studentDetails[i] = Console.ReadLine();
+                }
+                else if (i == 3)
+                {
+                    Console.Write("Address Line1:");
+                    studentDetails[i] = Console.ReadLine();
+                }
+                else if (i == 4)
+                {
+                    Console.Write("Address Line2:");
+                    studentDetails[i] = Console.ReadLine();
+                }
+                else if (i == 5)
+                {
+                    Console.Write("City:");
+                    studentDetails[i] = Console.ReadLine();
+                }
+                else if (i == 6)
+                {
+                    Console.Write("State/Province:");
+                    studentDetails[i] = Console.ReadLine();
+                }
+                else if (i == 7)
+                {
+                    Console.Write("Zip/Postal:");
+                    studentDetails[i] = Console.ReadLine();
+                }
+                else
+                {
+                    Console.Write("Country:");
+                    studentDetails[i] = Console.ReadLine();
+                }
+            }
+
+            void printInformation(string[] arr)
+            {
+                foreach (string i in arr)
+                {
+                    Console.WriteLine(i + " ");
+                }
+            }
+            
+            Console.Write("Do you want to change your information? (Yes/No) ");
+            string answer1 = Console.ReadLine();
+            switch(answer1)
+            {
+                case "Yes":
+                    informationChange(studentDetails);
+                    break;
+                case "No":
+                    Console.WriteLine("Thank you!");
+                    Console.Write("Print your information? (Yes/No)");
+                    string answer2 = Console.ReadLine();
+                    switch(answer2)
+                    {
+                        case "Yes":
+                            printInformation(studentDetails);
+                            break;
+                        case "No":
+                            Console.WriteLine("Thank you for your information");
+                            break;
+                        default:
+                            Console.WriteLine("Invalid input. Try again!");
+                            break;
+                    }
+                    break;
+                default:
+                    Console.WriteLine("Invalid input. Try again!");
+                    break;
+            }
+            void informationChange(string[] arr)
+            {
+                Console.WriteLine("Which information do you want to change?");
+                Console.WriteLine("Address Line 1 / Address Line 2 / City / Country");
+                Console.Write("Your answer:");
+                string answer3 = Console.ReadLine();
+                switch(answer3)
+                {
+                    case "Address Line 1":
+                        Console.Write("Enter your new Address Line 1:");
+                        string answer4 = Console.ReadLine();
+                        arr[3] = answer4;
+                        Console.WriteLine("Information changed!");
+                        Console.WriteLine("Your updated information:");
+                        updatedInformation(arr);
+                        break;
+                    case "Address Line 2":
+                        Console.Write("Enter your new Address Line 2:");
+                        string answer5 = Console.ReadLine();
+                        arr[4] = answer5;
+                        Console.WriteLine("Information changed!");
+                        Console.WriteLine("Your updated information:");
+                        updatedInformation(arr);
+                        break;
+                    case "City":
+                        Console.Write("Enter your new City:");
+                        string answer6 = Console.ReadLine();
+                        arr[5] = answer6;
+                        Console.WriteLine("Information changed!");
+                        Console.WriteLine("Your updated information:");
+                        updatedInformation(arr);
+                        break;
+                    case "Country":
+                        Console.Write("Enter your new Country:");
+                        string answer7 = Console.ReadLine();
+                        arr[8] = answer7;
+                        Console.WriteLine("Information changed!");
+                        Console.WriteLine("Your updated information:");
+                        updatedInformation(arr);
+                        break;
+                    default:
+                        Console.WriteLine("Invalid input. Try again!");
+                        break;
+                }
+                void updatedInformation(string[] arr2)
+                {
+                    foreach (string i in arr2)
+                    {
+                        Console.WriteLine(i + " ");
+                    }
+                }
+            }
+            //Console.ReadKey();
+        }
+    }
+}

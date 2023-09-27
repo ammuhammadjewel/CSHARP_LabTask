@@ -1,0 +1,15 @@
+H:\All\C#\ClassAndObject\ClassAndObject\obj\Debug\net6.0\ClassAndObject.csproj.AssemblyReference.cache
+H:\All\C#\ClassAndObject\ClassAndObject\obj\Debug\net6.0\ClassAndObject.GeneratedMSBuildEditorConfig.editorconfig
+H:\All\C#\ClassAndObject\ClassAndObject\obj\Debug\net6.0\ClassAndObject.AssemblyInfoInputs.cache
+H:\All\C#\ClassAndObject\ClassAndObject\obj\Debug\net6.0\ClassAndObject.AssemblyInfo.cs
+H:\All\C#\ClassAndObject\ClassAndObject\obj\Debug\net6.0\ClassAndObject.csproj.CoreCompileInputs.cache
+H:\All\C#\ClassAndObject\ClassAndObject\bin\Debug\net6.0\ClassAndObject.exe
+H:\All\C#\ClassAndObject\ClassAndObject\bin\Debug\net6.0\ClassAndObject.deps.json
+H:\All\C#\ClassAndObject\ClassAndObject\bin\Debug\net6.0\ClassAndObject.runtimeconfig.json
+H:\All\C#\ClassAndObject\ClassAndObject\bin\Debug\net6.0\ClassAndObject.dll
+H:\All\C#\ClassAndObject\ClassAndObject\bin\Debug\net6.0\ClassAndObject.pdb
+H:\All\C#\ClassAndObject\ClassAndObject\obj\Debug\net6.0\ClassAndObject.dll
+H:\All\C#\ClassAndObject\ClassAndObject\obj\Debug\net6.0\refint\ClassAndObject.dll
+H:\All\C#\ClassAndObject\ClassAndObject\obj\Debug\net6.0\ClassAndObject.pdb
+H:\All\C#\ClassAndObject\ClassAndObject\obj\Debug\net6.0\ClassAndObject.genruntimeconfig.cache
+H:\All\C#\ClassAndObject\ClassAndObject\obj\Debug\net6.0\ref\ClassAndObject.dll

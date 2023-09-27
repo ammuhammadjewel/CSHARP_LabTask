@@ -1,0 +1,15 @@
+H:\All\C#\StaticMethod\StaticMethod\bin\Debug\net6.0\StaticMethod.exe
+H:\All\C#\StaticMethod\StaticMethod\bin\Debug\net6.0\StaticMethod.deps.json
+H:\All\C#\StaticMethod\StaticMethod\bin\Debug\net6.0\StaticMethod.runtimeconfig.json
+H:\All\C#\StaticMethod\StaticMethod\bin\Debug\net6.0\StaticMethod.dll
+H:\All\C#\StaticMethod\StaticMethod\bin\Debug\net6.0\StaticMethod.pdb
+H:\All\C#\StaticMethod\StaticMethod\obj\Debug\net6.0\StaticMethod.csproj.AssemblyReference.cache
+H:\All\C#\StaticMethod\StaticMethod\obj\Debug\net6.0\StaticMethod.GeneratedMSBuildEditorConfig.editorconfig
+H:\All\C#\StaticMethod\StaticMethod\obj\Debug\net6.0\StaticMethod.AssemblyInfoInputs.cache
+H:\All\C#\StaticMethod\StaticMethod\obj\Debug\net6.0\StaticMethod.AssemblyInfo.cs
+H:\All\C#\StaticMethod\StaticMethod\obj\Debug\net6.0\StaticMethod.csproj.CoreCompileInputs.cache
+H:\All\C#\StaticMethod\StaticMethod\obj\Debug\net6.0\StaticMethod.dll
+H:\All\C#\StaticMethod\StaticMethod\obj\Debug\net6.0\refint\StaticMethod.dll
+H:\All\C#\StaticMethod\StaticMethod\obj\Debug\net6.0\StaticMethod.pdb
+H:\All\C#\StaticMethod\StaticMethod\obj\Debug\net6.0\StaticMethod.genruntimeconfig.cache
+H:\All\C#\StaticMethod\StaticMethod\obj\Debug\net6.0\ref\StaticMethod.dll

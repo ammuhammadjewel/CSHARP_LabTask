@@ -1,0 +1,15 @@
+H:\All\C#\Cons_Polymor\Cons_Polymor\bin\Debug\net6.0\Cons_Polymor.exe
+H:\All\C#\Cons_Polymor\Cons_Polymor\bin\Debug\net6.0\Cons_Polymor.deps.json
+H:\All\C#\Cons_Polymor\Cons_Polymor\bin\Debug\net6.0\Cons_Polymor.runtimeconfig.json
+H:\All\C#\Cons_Polymor\Cons_Polymor\bin\Debug\net6.0\Cons_Polymor.dll
+H:\All\C#\Cons_Polymor\Cons_Polymor\bin\Debug\net6.0\Cons_Polymor.pdb
+H:\All\C#\Cons_Polymor\Cons_Polymor\obj\Debug\net6.0\Cons_Polymor.csproj.AssemblyReference.cache
+H:\All\C#\Cons_Polymor\Cons_Polymor\obj\Debug\net6.0\Cons_Polymor.GeneratedMSBuildEditorConfig.editorconfig
+H:\All\C#\Cons_Polymor\Cons_Polymor\obj\Debug\net6.0\Cons_Polymor.AssemblyInfoInputs.cache
+H:\All\C#\Cons_Polymor\Cons_Polymor\obj\Debug\net6.0\Cons_Polymor.AssemblyInfo.cs
+H:\All\C#\Cons_Polymor\Cons_Polymor\obj\Debug\net6.0\Cons_Polymor.csproj.CoreCompileInputs.cache
+H:\All\C#\Cons_Polymor\Cons_Polymor\obj\Debug\net6.0\Cons_Polymor.dll
+H:\All\C#\Cons_Polymor\Cons_Polymor\obj\Debug\net6.0\refint\Cons_Polymor.dll
+H:\All\C#\Cons_Polymor\Cons_Polymor\obj\Debug\net6.0\Cons_Polymor.pdb
+H:\All\C#\Cons_Polymor\Cons_Polymor\obj\Debug\net6.0\Cons_Polymor.genruntimeconfig.cache
+H:\All\C#\Cons_Polymor\Cons_Polymor\obj\Debug\net6.0\ref\Cons_Polymor.dll

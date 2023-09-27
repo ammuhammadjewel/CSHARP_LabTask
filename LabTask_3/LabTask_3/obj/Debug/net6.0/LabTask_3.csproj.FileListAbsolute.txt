@@ -1,0 +1,15 @@
+H:\All\C#\LabTask_3\LabTask_3\bin\Debug\net6.0\LabTask_3.exe
+H:\All\C#\LabTask_3\LabTask_3\bin\Debug\net6.0\LabTask_3.deps.json
+H:\All\C#\LabTask_3\LabTask_3\bin\Debug\net6.0\LabTask_3.runtimeconfig.json
+H:\All\C#\LabTask_3\LabTask_3\bin\Debug\net6.0\LabTask_3.dll
+H:\All\C#\LabTask_3\LabTask_3\bin\Debug\net6.0\LabTask_3.pdb
+H:\All\C#\LabTask_3\LabTask_3\obj\Debug\net6.0\LabTask_3.csproj.AssemblyReference.cache
+H:\All\C#\LabTask_3\LabTask_3\obj\Debug\net6.0\LabTask_3.GeneratedMSBuildEditorConfig.editorconfig
+H:\All\C#\LabTask_3\LabTask_3\obj\Debug\net6.0\LabTask_3.AssemblyInfoInputs.cache
+H:\All\C#\LabTask_3\LabTask_3\obj\Debug\net6.0\LabTask_3.AssemblyInfo.cs
+H:\All\C#\LabTask_3\LabTask_3\obj\Debug\net6.0\LabTask_3.csproj.CoreCompileInputs.cache
+H:\All\C#\LabTask_3\LabTask_3\obj\Debug\net6.0\LabTask_3.dll
+H:\All\C#\LabTask_3\LabTask_3\obj\Debug\net6.0\refint\LabTask_3.dll
+H:\All\C#\LabTask_3\LabTask_3\obj\Debug\net6.0\LabTask_3.pdb
+H:\All\C#\LabTask_3\LabTask_3\obj\Debug\net6.0\LabTask_3.genruntimeconfig.cache
+H:\All\C#\LabTask_3\LabTask_3\obj\Debug\net6.0\ref\LabTask_3.dll

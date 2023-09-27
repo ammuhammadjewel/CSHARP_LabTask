@@ -1,0 +1,15 @@
+H:\All\C#\FLab_3(Faculty)\FLab_3(Faculty)\bin\Debug\net6.0\FLab_3(Faculty).exe
+H:\All\C#\FLab_3(Faculty)\FLab_3(Faculty)\bin\Debug\net6.0\FLab_3(Faculty).deps.json
+H:\All\C#\FLab_3(Faculty)\FLab_3(Faculty)\bin\Debug\net6.0\FLab_3(Faculty).runtimeconfig.json
+H:\All\C#\FLab_3(Faculty)\FLab_3(Faculty)\bin\Debug\net6.0\FLab_3(Faculty).dll
+H:\All\C#\FLab_3(Faculty)\FLab_3(Faculty)\bin\Debug\net6.0\FLab_3(Faculty).pdb
+H:\All\C#\FLab_3(Faculty)\FLab_3(Faculty)\obj\Debug\net6.0\FLab_3(Faculty).csproj.AssemblyReference.cache
+H:\All\C#\FLab_3(Faculty)\FLab_3(Faculty)\obj\Debug\net6.0\FLab_3(Faculty).GeneratedMSBuildEditorConfig.editorconfig
+H:\All\C#\FLab_3(Faculty)\FLab_3(Faculty)\obj\Debug\net6.0\FLab_3(Faculty).AssemblyInfoInputs.cache
+H:\All\C#\FLab_3(Faculty)\FLab_3(Faculty)\obj\Debug\net6.0\FLab_3(Faculty).AssemblyInfo.cs
+H:\All\C#\FLab_3(Faculty)\FLab_3(Faculty)\obj\Debug\net6.0\FLab_3(Faculty).csproj.CoreCompileInputs.cache
+H:\All\C#\FLab_3(Faculty)\FLab_3(Faculty)\obj\Debug\net6.0\FLab_3(Faculty).dll
+H:\All\C#\FLab_3(Faculty)\FLab_3(Faculty)\obj\Debug\net6.0\refint\FLab_3(Faculty).dll
+H:\All\C#\FLab_3(Faculty)\FLab_3(Faculty)\obj\Debug\net6.0\FLab_3(Faculty).pdb
+H:\All\C#\FLab_3(Faculty)\FLab_3(Faculty)\obj\Debug\net6.0\FLab_3(Faculty).genruntimeconfig.cache
+H:\All\C#\FLab_3(Faculty)\FLab_3(Faculty)\obj\Debug\net6.0\ref\FLab_3(Faculty).dll
