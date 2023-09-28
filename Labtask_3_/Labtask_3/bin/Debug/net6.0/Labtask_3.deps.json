@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Labtask_3(sifat)/1.0.0": {
+        "runtime": {
+          "Labtask_3(sifat).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Labtask_3(sifat)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+H:\All\C#\Labtask_3_1_(sifat)\Labtask_3_1_(sifat)\obj\Debug\net6.0\Labtask_3_1_(sifat).csproj.AssemblyReference.cache
+H:\All\C#\Labtask_3_1_(sifat)\Labtask_3_1_(sifat)\obj\Debug\net6.0\Labtask_3_1_(sifat).GeneratedMSBuildEditorConfig.editorconfig
+H:\All\C#\Labtask_3_1_(sifat)\Labtask_3_1_(sifat)\obj\Debug\net6.0\Labtask_3_1_(sifat).AssemblyInfoInputs.cache
+H:\All\C#\Labtask_3_1_(sifat)\Labtask_3_1_(sifat)\obj\Debug\net6.0\Labtask_3_1_(sifat).AssemblyInfo.cs
+H:\All\C#\Labtask_3_1_(sifat)\Labtask_3_1_(sifat)\obj\Debug\net6.0\Labtask_3_1_(sifat).csproj.CoreCompileInputs.cache
+H:\All\C#\Labtask_3_1_(sifat)\Labtask_3_1_(sifat)\bin\Debug\net6.0\Labtask_3_1_(sifat).exe
+H:\All\C#\Labtask_3_1_(sifat)\Labtask_3_1_(sifat)\bin\Debug\net6.0\Labtask_3_1_(sifat).deps.json
+H:\All\C#\Labtask_3_1_(sifat)\Labtask_3_1_(sifat)\bin\Debug\net6.0\Labtask_3_1_(sifat).runtimeconfig.json
+H:\All\C#\Labtask_3_1_(sifat)\Labtask_3_1_(sifat)\bin\Debug\net6.0\Labtask_3_1_(sifat).dll
+H:\All\C#\Labtask_3_1_(sifat)\Labtask_3_1_(sifat)\bin\Debug\net6.0\Labtask_3_1_(sifat).pdb
+H:\All\C#\Labtask_3_1_(sifat)\Labtask_3_1_(sifat)\obj\Debug\net6.0\Labtask_3_1_(sifat).dll
+H:\All\C#\Labtask_3_1_(sifat)\Labtask_3_1_(sifat)\obj\Debug\net6.0\refint\Labtask_3_1_(sifat).dll
+H:\All\C#\Labtask_3_1_(sifat)\Labtask_3_1_(sifat)\obj\Debug\net6.0\Labtask_3_1_(sifat).pdb
+H:\All\C#\Labtask_3_1_(sifat)\Labtask_3_1_(sifat)\obj\Debug\net6.0\Labtask_3_1_(sifat).genruntimeconfig.cache
+H:\All\C#\Labtask_3_1_(sifat)\Labtask_3_1_(sifat)\obj\Debug\net6.0\ref\Labtask_3_1_(sifat).dll
